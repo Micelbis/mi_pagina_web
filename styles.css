@@ -1,0 +1,85 @@
+h2{
+    color: crimson;
+}
+
+p{
+    color: rgb(255, 190, 10);
+}
+br{
+    color: rgb(0, 0, 0);
+}
+body {
+    background-color: rgba(10, 173, 214, 0.5); /* Color con transparencia */
+    background-image: url("");
+    background-size: cover;
+    background-blend-mode: overlay; /* Mezcla el color con la imagen */
+    background-position: center;
+}
+
+ul{
+    color: rgb(15, 15, 15);
+    
+}
+a{
+    color: rgb(13, 14, 13) ;
+    font-size: 100%;
+}
+h3{
+    color: rgb(221, 218, 218);
+}
+
+header{
+    color: rgb(14, 19, 14);
+    font-size: 150%;
+
+}
+
+section{
+    color: rgb(235, 236, 245);
+    font-size: 150%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+th, td {
+    border: 1px solid #e9edf0;
+    padding: 8px;
+    text-align: center;
+}
+th {
+    background-color: #292a2b;
+}
+form {
+    margin: 20px 0;
+}
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+input[type="text"], input[type="email"], button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+button {
+    background-color: #e9ecee;
+    color: rgb(12, 224, 231);
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+background-color: #0d0d0e;
+        }
+
+        p{
+            color: black;
+        }
+
+        h1{
+            color: darkred;
+        }
